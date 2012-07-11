@@ -1,0 +1,7 @@
+www-client/uzbl vim-syntax gtk3
+#required by dev-util/eric-5.2.2, required by eric (argument)
+>=dev-python/PyQt4-4.9.1 webkit assistant
+#required by app-text/pdftk-1.44, required by pdftk (argument)
+>=sys-devel/gcc-4.5.3-r2:4.5 gcj
+#required by app-text/evince-2.32.0-r4, required by evince (argument)
+=app-text/poppler-0.18.4-r1 cairo

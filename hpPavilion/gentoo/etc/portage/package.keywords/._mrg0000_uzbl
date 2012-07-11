@@ -1,0 +1,5 @@
+www-client/uzbl ~*
+#required by openocd (argument)
+=dev-embedded/openocd-0.5.0 ~amd64
+#required by dev-embedded/openocd-0.5.0, required by openocd (argument)
+=dev-lang/jimtcl-0.70_pre20110317 ~amd64

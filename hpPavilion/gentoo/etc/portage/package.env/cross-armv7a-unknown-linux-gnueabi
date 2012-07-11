@@ -1,0 +1,6 @@
+cross-armv7a-unknown-linux-gnueabi/binutils cross-armv7a-unknown-linux-gnueabi/binutils.conf
+cross-armv7a-unknown-linux-gnueabi/gcc cross-armv7a-unknown-linux-gnueabi/gcc.conf
+cross-armv7a-unknown-linux-gnueabi/linux-headers cross-armv7a-unknown-linux-gnueabi/linux-headers.conf
+cross-armv7a-unknown-linux-gnueabi/glibc cross-armv7a-unknown-linux-gnueabi/glibc.conf
+cross-armv7a-unknown-linux-gnueabi/gdb cross-armv7a-unknown-linux-gnueabi/gdb.conf
+cross-armv7a-unknown-linux-gnueabi/insight cross-armv7a-unknown-linux-gnueabi/insight.conf

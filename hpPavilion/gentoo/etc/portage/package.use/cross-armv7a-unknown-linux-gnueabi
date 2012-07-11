@@ -1,0 +1,6 @@
+cross-armv7a-unknown-linux-gnueabi/gdb sys-devel gdb
+cross-armv7a-unknown-linux-gnueabi/insight dev-util insight
+cross-armv7a-unknown-linux-gnueabi/binutils -selinux -multilib
+cross-armv7a-unknown-linux-gnueabi/linux-headers -selinux -multilib
+cross-armv7a-unknown-linux-gnueabi/glibc -selinux -multilib
+cross-armv7a-unknown-linux-gnueabi/gcc -selinux -boundschecking -d -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -multilib

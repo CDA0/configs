@@ -1,0 +1,20 @@
+net-misc/wicd -nls -gtk
+#required by media-libs/mesa-7.11.2, required by x11-base/xorg-server-1.11.2-r2[-minimal], required by x11-drivers/xf86-input-evdev-2.6.0, required by x11-base/xorg-drivers-1.11[input_devices_evdev]
+>=dev-libs/libxml2-2.7.8-r5 python
+#required by x11-libs/gtk+-3.2.4-r1, required by www-client/midori-0.4.3, required by midori (argument)
+=x11-libs/cairo-1.10.2-r2 X
+sys-apps/dbus -X
+x11-wm/dwm savedconfig xinerama
+x11-terms/rxvt-unicode 256-color xft
+net-im/pidgin gtk -gstreamer dbus
+media-fonts/corefonts X
+media-fonts/terminus-font X
+www-client/elinks javascript
+#required by www-client/chromium-18.0.1025.168, required by chromium (argument)
+>=dev-libs/libxml2-2.7.8-r5 icu
+dev-libs/protobuf python vim-syntax
+x11-misc/tint2 tint2conf
+app-editors/vim perl python ruby
+app-editors/gvim perl python ruby netbeans gtk
+x11-misc/slim branding
+app-admin/conky truetype hddtemp imlib iostats math vim-syntax wifi

@@ -1,0 +1,6 @@
+cross-armv7a-unknown-linux-gnueabi/binutils arm -amd64 -~amd64
+cross-armv7a-unknown-linux-gnueabi/gcc arm -amd64 -~amd64
+cross-armv7a-unknown-linux-gnueabi/linux-headers arm -amd64 -~amd64
+cross-armv7a-unknown-linux-gnueabi/glibc arm -amd64 -~amd64
+cross-armv7a-unknown-linux-gnueabi/gdb arm ~arm -amd64 -~amd64
+cross-armv7a-unknown-linux-gnueabi/insight arm ~arm -amd64 -~amd64

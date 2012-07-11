@@ -1,0 +1,6 @@
+cross-armv7a-unknown-linux-gnueabi/binutils -multilib
+cross-armv7a-unknown-linux-gnueabi/gcc -multilib
+cross-armv7a-unknown-linux-gnueabi/linux-headers -multilib
+cross-armv7a-unknown-linux-gnueabi/glibc -multilib
+cross-armv7a-unknown-linux-gnueabi/gdb -multilib
+cross-armv7a-unknown-linux-gnueabi/insight -multilib

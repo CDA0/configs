@@ -1,0 +1,2 @@
+dev-java/eclipse-ecj -ant
+dev-java/ant -X -antlr -bcel -bsf -commonslogging -log4j  -commonsnet -jdepend -javamail -jsch -oro -regexp -resolver

@@ -1,0 +1,17 @@
+www-client/uzbl ~*
+#required by openocd (argument)
+=dev-embedded/openocd-0.5.0 ~amd64
+#required by dev-embedded/openocd-0.5.0, required by openocd (argument)
+=dev-lang/jimtcl-0.70_pre20110317 ~amd64
+dev-util/eclipse-sdk ~*
+#required by java-virtuals/jetty-server-6-r4, required by dev-util/eclipse-sdk-3.7.1-r7, required by dev-util/eclipse-sdk (argument)
+=www-servers/jetty-bin-6.1.26-r3 ~amd64
+#required by dev-util/eclipse-sdk-3.7.1-r7, required by dev-util/eclipse-sdk (argument)
+=dev-java/sat4j-pseudo-2.3.1 ~amd64
+#required by dev-java/sat4j-pseudo-2.3.1, required by dev-util/eclipse-sdk-3.7.1-r7, required by dev-util/eclipse-sdk (argument)
+=dev-java/sat4j-core-2.3.1-r1 ~amd64
+#required by dev-util/eclipse-sdk-3.7.1-r7, required by dev-util/eclipse-sdk (argument)
+=dev-java/swt-3.7.1 ~amd64
+#required by dev-util/eclipse-sdk-3.7.1-r7, required by dev-util/eclipse-sdk (argument)
+=dev-java/asm-3.3.1 ~amd64
+dev-python/django ~*
